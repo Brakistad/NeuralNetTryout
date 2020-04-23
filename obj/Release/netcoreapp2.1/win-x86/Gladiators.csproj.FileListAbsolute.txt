@@ -1,0 +1,11 @@
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Release\netcoreapp2.1\win-x86\Gladiators.deps.json
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Release\netcoreapp2.1\win-x86\Gladiators.runtimeconfig.json
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Release\netcoreapp2.1\win-x86\Gladiators.runtimeconfig.dev.json
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Release\netcoreapp2.1\win-x86\Gladiators.dll
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Release\netcoreapp2.1\win-x86\Gladiators.pdb
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Release\netcoreapp2.1\win-x86\Gladiators.csprojAssemblyReference.cache
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Release\netcoreapp2.1\win-x86\Gladiators.csproj.CoreCompileInputs.cache
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Release\netcoreapp2.1\win-x86\Gladiators.AssemblyInfoInputs.cache
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Release\netcoreapp2.1\win-x86\Gladiators.AssemblyInfo.cs
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Release\netcoreapp2.1\win-x86\Gladiators.dll
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Release\netcoreapp2.1\win-x86\Gladiators.pdb

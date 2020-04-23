@@ -1,0 +1,15 @@
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Debug\netcoreapp2.1\Gladiators.AssemblyInfoInputs.cache
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Debug\netcoreapp2.1\Gladiators.AssemblyInfo.cs
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Debug\netcoreapp2.1\Gladiators.deps.json
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Debug\netcoreapp2.1\Gladiators.runtimeconfig.json
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Debug\netcoreapp2.1\Gladiators.runtimeconfig.dev.json
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Debug\netcoreapp2.1\Gladiators.dll
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Debug\netcoreapp2.1\Gladiators.pdb
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Debug\netcoreapp2.1\Gladiators.dll
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Debug\netcoreapp2.1\Gladiators.pdb
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Debug\netcoreapp2.1\Gladiators.csprojAssemblyReference.cache
+C:\Users\oyvin\source\repos\Gladiators\MyNeuralNetwork\netcoreapp2.1\Gladiators.deps.json
+C:\Users\oyvin\source\repos\Gladiators\MyNeuralNetwork\netcoreapp2.1\Gladiators.runtimeconfig.json
+C:\Users\oyvin\source\repos\Gladiators\MyNeuralNetwork\netcoreapp2.1\Gladiators.runtimeconfig.dev.json
+C:\Users\oyvin\source\repos\Gladiators\MyNeuralNetwork\netcoreapp2.1\Gladiators.dll
+C:\Users\oyvin\source\repos\Gladiators\MyNeuralNetwork\netcoreapp2.1\Gladiators.pdb

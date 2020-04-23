@@ -1,0 +1,10 @@
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Release\netcoreapp2.1\Gladiators.deps.json
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Release\netcoreapp2.1\Gladiators.runtimeconfig.json
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Release\netcoreapp2.1\Gladiators.runtimeconfig.dev.json
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Release\netcoreapp2.1\Gladiators.dll
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\bin\Release\netcoreapp2.1\Gladiators.pdb
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Release\netcoreapp2.1\Gladiators.csproj.CoreCompileInputs.cache
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Release\netcoreapp2.1\Gladiators.AssemblyInfoInputs.cache
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Release\netcoreapp2.1\Gladiators.AssemblyInfo.cs
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Release\netcoreapp2.1\Gladiators.dll
+C:\Users\oyvin\source\repos\Gladiators\Gladiators\obj\Release\netcoreapp2.1\Gladiators.pdb
