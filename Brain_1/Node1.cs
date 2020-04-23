@@ -16,6 +16,7 @@ namespace Gladiators
         double prevBias;
         double biasVelocity;
 
+
         double[] weightVelocities;
         double[] adaptedVelocities;
 
